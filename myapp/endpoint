@@ -1,0 +1,23 @@
+# GET  http://localhost:5000/api/users/ HTTP/1.1
+
+GET  http://localhost:5000/api/users/6908a507374cff668c59836d HTTP/1.1
+
+# POST http://localhost:5000/api/users HTTP/1.1
+# content-type: application/json
+
+# {
+#     "name": "Gopi",
+#     "email": "Gopi@gmail.com",
+#     "age":25
+# }
+
+# PUT http://localhost:5000/api/users/6908ab44374cff668c598373 HTTP/1.1
+# content-type: application/json
+
+# {
+#     "name": "Gopi2",
+#     "email": "Gopi@gmail2.com",
+#     "age":26
+# }
+
+# DELETE http://localhost:5000/api/users/6908ab44374cff668c598373 HTTP/1.1
