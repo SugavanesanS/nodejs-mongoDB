@@ -2,21 +2,20 @@
 import express from "express";
 import {
   getUsers,
-  createUser,
   getUserById,
   updateUser,
   deleteUser,
 } from "../controllers/user.controller.js";
+import { protect } from "../middleware/protectrule.js";
 
 const router = express.Router();
 
 router.route("/")
-  .get(getUsers)
-  .post(createUser);
+  .get(protect, getUsers)
 
 router.route("/:id")
-  .get(getUserById)
-  .put(updateUser)
-  .delete(deleteUser);
+  .get(protect, getUserById)
+  .put(protect, updateUser)
+  .delete(protect, deleteUser);
 
 export default router;

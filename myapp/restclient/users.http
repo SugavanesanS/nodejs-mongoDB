@@ -1,6 +1,6 @@
-# GET  http://localhost:5000/api/users/ HTTP/1.1
+GET  http://localhost:5000/api/users/ HTTP/1.1
 
-GET  http://localhost:5000/api/users/6908a507374cff668c59836d HTTP/1.1
+# GET  http://localhost:5000/api/users/6908a507374cff668c59836d HTTP/1.1
 
 # POST http://localhost:5000/api/users HTTP/1.1
 # content-type: application/json
