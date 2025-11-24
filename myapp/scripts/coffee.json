@@ -1,0 +1,145 @@
+{
+    "Coffees": [
+        {
+            "id": "1",
+            "coffeName": "Cappucino",
+            "image": "cappucino_img",
+            "type": "category",
+            "price": "3.50",
+            "size": "large"
+        },
+        {
+            "id": "2",
+            "coffeName": "Latte",
+            "image": "latte_img",
+            "type": "category",
+            "price": "3.80",
+            "size": "small"
+        },
+        {
+            "id": "3",
+            "coffeName": "Americano",
+            "image": "americano_img",
+            "type": "category",
+            "price": "3.20",
+            "size": "large"
+        },
+        {
+            "id": "4",
+            "coffeName": "Espresso",
+            "image": "espresso_img",
+            "type": "category",
+            "price": "2.80"
+        },
+        {
+            "id": "5",
+            "coffeName": "Macchiato",
+            "image": "macchiato_img",
+            "type": "category",
+            "price": "3.60",
+            "size": "small"
+        },
+        {
+            "id": "6",
+            "coffeName": "Mocha",
+            "image": "mocha_img",
+            "type": "category",
+            "price": "4.20",
+            "size": "small"
+        },
+        {
+            "id": "7",
+            "coffeName": "Flat White",
+            "image": "blackCoffee_img",
+            "type": "category",
+            "price": "3.90",
+            "size": "large"
+        },
+        {
+            "id": "8",
+            "coffeName": "Cortado",
+            "image": "cortado_img",
+            "type": "category",
+            "price": "3.40",
+            "size": "small"
+        },
+        {
+            "id": "9",
+            "coffeName": "Affogato",
+            "image": "cappucino_img",
+            "type": "category",
+            "price": "4.00",
+            "size": "large"
+        },
+        {
+            "id": "10",
+            "coffeName": "Irish Coffee",
+            "image": "latte_img",
+            "type": "category",
+            "price": "4.80",
+            "size": "small"
+        },
+        {
+            "id": "11",
+            "coffeName": "Cold Brew",
+            "image": "americano_img",
+            "type": "category",
+            "price": "3.70",
+            "size": "large"
+        },
+        {
+            "id": "12",
+            "coffeName": "Iced Latte",
+            "image": "espresso_img",
+            "type": "category",
+            "price": "4.10"
+        },
+        {
+            "id": "13",
+            "coffeName": "Iced Americano",
+            "image": "macchiato_img",
+            "type": "category",
+            "price": "3.60",
+            "size": "small"
+        },
+        {
+            "id": "14",
+            "coffeName": "Frappuccino",
+            "image": "blackCoffee_img",
+            "type": "category",
+            "price": "4.50"
+        },
+        {
+            "id": "15",
+            "coffeName": "Arabica",
+            "image": "cortado_img",
+            "type": "category",
+            "price": "3.90",
+            "size": "small"
+        },
+        {
+            "id": "16",
+            "coffeName": "Robusta",
+            "image": "robusta_img",
+            "type": "category",
+            "price": "3.60",
+            "size": "small"
+        },
+        {
+            "id": "17",
+            "coffeName": "Liberica",
+            "image": "promoCoffee_img",
+            "type": "category",
+            "price": "4.00",
+            "size": "small"
+        },
+        {
+            "id": "18",
+            "coffeName": "Excelsa",
+            "image": "cortado_img",
+            "type": "category",
+            "price": "3.70",
+            "size": "small"
+        }
+    ]
+}

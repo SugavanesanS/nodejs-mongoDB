@@ -1,0 +1,202 @@
+{
+    "cappucino": [
+        {
+            "id": "1",
+            "image": "cappucino_img",
+            "coffeName": "Cappucino",
+            "ingredient": "steamed milk, foam",
+            "price": "3.50",
+            "cartStatus": true,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "2",
+            "image": "cappucino_img",
+            "coffeName": "Dry Cappuccino",
+            "ingredient": "extra foam, less milk",
+            "price": "3.80",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "3",
+            "image": "cappucino_img",
+            "coffeName": "Vanilla Cappuccino",
+            "ingredient": "steamed milk, vanilla syrup, foam",
+            "price": "4.00",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "large"
+        },
+        {
+            "id": "4",
+            "image": "cappucino_img",
+            "coffeName": "Caramel Cappuccino",
+            "ingredient": "steamed milk, caramel syrup, foam",
+            "price": "4.20",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "large"
+        }
+    ],
+    "latte": [
+        {
+            "id": "5",
+            "image": "latte_img",
+            "coffeName": "Flat White",
+            "ingredient": "steamed milk, thin layer of foam",
+            "price": "5.80",
+            "cartStatus": true,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "6",
+            "image": "latte_img",
+            "coffeName": "Cinnamon Latte",
+            "ingredient": "steamed milk, cinnamon syrup",
+            "price": "4.20",
+            "cartStatus": true,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "7",
+            "image": "latte_img",
+            "coffeName": "Vanilla Latte",
+            "ingredient": "steamed milk, vanilla syrup",
+            "price": "4.00",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "8",
+            "image": "latte_img",
+            "coffeName": "Oat Milk Latte",
+            "ingredient": "oat milk, foam",
+            "price": "4.50",
+            "cartStatus": true,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "large"
+        }
+    ],
+    "americano": [
+        {
+            "id": "9",
+            "image": "americano_img",
+            "coffeName": "Vanilla Americano",
+            "ingredient": "hot water, vanilla syrup",
+            "price": "3.50",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "10",
+            "image": "americano_img",
+            "coffeName": "Caramel Americano",
+            "ingredient": "hot water, caramel syrup",
+            "price": "3.80",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "11",
+            "image": "americano_img",
+            "coffeName": "Hazelnut Americano",
+            "ingredient": "hot water, hazelnut syrup",
+            "price": "3.90",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "large"
+        },
+        {
+            "id": "12",
+            "image": "americano_img",
+            "coffeName": "Mocha Americano",
+            "ingredient": "hot water, chocolate syrup",
+            "price": "4.20",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "large"
+        }
+    ],
+    "espresso": [
+        {
+            "id": "1",
+            "image": "espresso_img",
+            "coffeName": "Espresso",
+            "ingredient": "pure espresso shot",
+            "price": "2.50",
+            "cartStatus": true,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "2",
+            "image": "espresso_img",
+            "coffeName": "Double Espresso",
+            "ingredient": "two espresso shots",
+            "price": "3.00",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "3",
+            "image": "espresso_img",
+            "coffeName": "Espresso Macchiato",
+            "ingredient": "espresso with a small amount of milk foam",
+            "price": "3.20",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "small"
+        },
+        {
+            "id": "4",
+            "image": "espresso_img",
+            "coffeName": "Ristretto",
+            "ingredient": "shorter, more concentrated espresso shot",
+            "price": "2.80",
+            "cartStatus": false,
+            "isfavorite": false,
+            "iscart": false,
+            "type": "product",
+            "size": "large"
+        }
+    ]
+}
